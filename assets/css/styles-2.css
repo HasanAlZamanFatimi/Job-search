@@ -1,0 +1,114 @@
+div.well{
+  height:460px;
+  width:300px;
+  display:inline-block;
+  margin-left:58px;
+  margin-top:35px;
+}
+
+a.btn.btn-primary.active.btn-block.btn-lg{
+  width:158px;
+  margin-left:47px;
+}
+
+div.well.well-sm..cst{
+  display:inline-block;
+}
+
+div.row..cst{
+  margin-left:n;
+}
+
+div.row..cst{
+  margin-left:10px;
+  margin-right:10px;
+}
+
+div.col-md-4.col-sm-6.footer-navigation{
+  margin-left:0px;
+  margin-right:0px;
+}
+
+div.col-md-12..cst{
+  width:z;
+}
+
+img#img1{
+  max-height:54px;
+  max-width:80px;
+  margin-right:16px;
+  display:inline-block;
+  margin-top:-5px;
+}
+
+p.text-center{
+  color:rgb(115,5,25);
+  margin-top:1px;
+}
+
+h1.text-center{
+  margin-top:51px;
+  margin-bottom:36px;
+  color:rgb(28,29,31);
+  margin-left:106px;
+}
+
+div.col-lg-12.col-md-12.col-sm-12.col-xs-12{
+  border-radius:25px;
+}
+
+img{
+}
+
+ul.nav.navbar-nav.navbar-right..cst{
+}
+
+input.form-control.input-lg.login-text{
+  margin-top:16px;
+}
+
+button.btn.btn-primary.btn-lg.btn-cst-2{
+  margin-top:12px;
+  margin-left:191px;
+  width:111px;
+}
+
+div.modal-header.modal-head{
+  height:148px;
+  margin-top:10px;
+  margin-bottom:4px;
+}
+
+input.form-control.input-lg.register-text.name-txt{
+  margin-top:15px;
+  margin-bottom:-1px;
+}
+
+input.form-control.input-lg.last-txt.register-text{
+  margin-top:10px;
+}
+
+input.form-control.input-lg.email-input{
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+input.form-control.input-lg{
+  margin-top:10px;
+}
+
+input{
+}
+
+#img_upload{
+  height:23px;
+}
+
+button.close{
+  margin-top:-14px;
+}
+
+h1#a.text-center{
+  color:white;
+}
+

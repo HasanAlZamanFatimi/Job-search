@@ -1,0 +1,16 @@
+#promo{
+  background-image:url(../../assets/img/business-wallpaper-1920x1080.jpg);
+  background-size:cover;
+}
+
+#promo .{
+  background-color:rgba(225,255,255,);
+}
+
+div.col-md-8.col-md-offset-2{
+}
+
+#promo .form-horizontal.custom-form{
+  background-color:rgba(239,228,203,0.61);
+}
+

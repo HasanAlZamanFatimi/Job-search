@@ -1,0 +1,13 @@
+nav.navbar.navbar-inverse.navbar-fixed-top{
+  background-color:rgb(41,44,47);
+  height:73px;
+}
+
+img#img1{
+  max-height:54px;
+  max-width:80px;
+  margin-right:16px;
+  display:inline-block;
+  margin-top:-5px;
+}
+

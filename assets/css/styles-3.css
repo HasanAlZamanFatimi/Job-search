@@ -1,0 +1,74 @@
+#promo{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/job.jpg)no-repeat;
+  background-size:cover;
+  margin-top:65px;
+}
+
+@media (max-width:767px) {
+  #promo{
+    padding:20px;
+  }
+}
+
+#promo .jumbotron{
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0.75);
+  max-width:800px;
+  margin:0 auto;
+}
+
+@media (max-width:1199px) {
+  #promo .jumbotron{
+    padding:20px;
+  }
+}
+
+.side{
+  text-align:center;
+  padding:40px;
+}
+
+#welcome{
+  max-width:800px;
+  font-size:20px;
+  margin:auto;
+}
+
+.side h1{
+  font-weight:normal;
+  margin-bottom:30px;
+}
+
+#why .item i{
+  font-size:60px;
+}
+
+#why .item h2{
+  font-weight:normal;
+  margin-top:20px;
+  margin-bottom:20px;
+  font-size:24px;
+}
+
+#why .item{
+  margin-top:30px;
+}
+
+.darkname{
+  background-color:#eff5fb;
+}
+
+#logo{
+  max-width:40px;
+  margin-right:10px;
+  margin-top:-3px;
+  display:inline-block;
+}
+
+div#ab.modal-body{
+  background-image:url(../../assets/img/desk-wallpaper-1920x1080.jpg);
+}
+

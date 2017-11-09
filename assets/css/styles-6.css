@@ -1,0 +1,64 @@
+div.container.cst{
+  margin-top:78px;
+}
+
+a.btn.btn-success.btn-block.btn-lg.cst{
+  height:235px;
+  width:488px;
+  margin-top:66px;
+  padding:73px;
+  font-size:52px;
+  display:inline-block;
+  margin-left:51px;
+}
+
+tr.active.cst{
+  text-align:center;
+}
+
+tr.success.cst{
+  text-align:center;
+}
+
+#logout{
+}
+
+#z4{
+  padding:10px;
+  margin-right:20px;
+}
+
+th#c1{
+  text-align:center;
+}
+
+th#c2{
+  text-align:center;
+}
+
+th#c3{
+  text-align:center;
+}
+
+input.input-lg.cst{
+  width:378px;
+  margin-top:10px;
+  margin-left:87px;
+}
+
+button#bb.btn.btn-primary.btn-block.btn-lg{
+  width:134px;
+  margin-top:10px;
+  margin-left:329px;
+}
+
+th.ee{
+  text-align:center;
+}
+
+input.ss{
+  margin-top:10px;
+  margin-left:87px;
+  font-size:19px;
+}
+
